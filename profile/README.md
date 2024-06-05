@@ -15,8 +15,8 @@
 
 ## Repositories
 
-|    Branch Name     |                                      Branch Link                                         |
-| :----------------: | :--------------------------------------------------------------------------------------: |
-| Mobile Development | [MD Repositories](https://github.com/Capstone-Buddies/qflare-front-end.git)             |
-|  Cloud Computing   | [CC Repositories](https://github.com/Capstone-Buddies/qflare-back-end.git)               |
-|  Machine Learning  | [ML Repositories](https://github.com/Capstone-Buddies/Machine-Learning.git)              |
+|    Repositories Name     |                                Repositories Link                                         |
+| :----------------------: | :--------------------------------------------------------------------------------------: |
+|  Mobile Development      | [MD Repositories](https://github.com/Capstone-Buddies/qflare-front-end.git)              |
+|  Cloud Computing         | [CC Repositories](https://github.com/Capstone-Buddies/qflare-back-end.git)               |
+|  Machine Learning        | [ML Repositories](https://github.com/Capstone-Buddies/Machine-Learning.git)              |
