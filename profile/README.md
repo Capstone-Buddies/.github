@@ -1,5 +1,7 @@
 # QFlare : College Admission Exam Preparation App
 ## Screenshots
+![Qflare](https://storage.googleapis.com/image_profilee/Qflare%20ui%20kit.png)
+
 ## Our Team
 * Team ID: C241-PS267
 * We are a team, consist of 6 people:
