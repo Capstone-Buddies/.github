@@ -2,6 +2,9 @@
 ## Screenshots
 ![Qflare](https://storage.googleapis.com/image_profilee/Qflare%20ui%20kit.png)
 
+## Project Description
+QFlare is an app designed to help high school students in Indonesia prepare for the SNBT (Seleksi Nasional Berbasis Tes) college entrance exams. QFlare offer a personalized learning experience through advanced technology. By leveraging its unique features, QFlare not only prepares students effectively but also makes learning enjoyable and competitive. Positioned to capitalize on the growing educational technology market in Indonesia, QFlare is set to revolutionize SNBT exam preparation.
+
 ## Our Team
 * Team ID: C241-PS267
 * We are a team, consist of 6 people:
